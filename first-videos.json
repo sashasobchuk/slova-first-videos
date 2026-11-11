@@ -1,0 +1,428 @@
+{
+  "version": 1,
+  "videos": {
+    "en": [
+      {
+        "id": "ibjUpk9Iagk",
+        "title": "TED-Ed — The history of chocolate"
+      },
+      {
+        "id": "Yocja_N5s1I",
+        "title": "CrashCourse — The Agricultural Revolution"
+      },
+      {
+        "id": "lXfEK8G8CUI",
+        "title": "Kurzgesagt — How The Immune System ACTUALLY Works"
+      }
+    ],
+    "de": [
+      {
+        "id": "Lg5P2w_Ro1c",
+        "title": "Deutsche Welle — Nicos Weg (A2)"
+      },
+      {
+        "id": "gz9JbZcfnrk",
+        "title": "lingoni GERMAN — 15 German Words for Beginners"
+      }
+    ],
+    "uk": [
+      {
+        "id": "uT7VWw7FBlw",
+        "title": "Цікава наука — Чому вагітним необхідна фолієва кислота (3:57)"
+      },
+      {
+        "id": "H0G72QaIByc",
+        "title": "Цікава наука — Як ми дізналися будову молекули води (4:10)"
+      },
+      {
+        "id": "Jhs2RMj5H-Y",
+        "title": "Цікава наука — Чому погоду важко передбачати (3:49)"
+      }
+    ],
+    "am": [
+      {
+        "id": "qDitP-UoBKg",
+        "title": "Saquama — What is physics? (5:47)"
+      },
+      {
+        "id": "5W8LR02wi2E",
+        "title": "Saquama — Introduction to Motion (5:48)"
+      },
+      {
+        "id": "gz9kXwlJC-U",
+        "title": "Saquama — Introduction to Force (5:48)"
+      }
+    ],
+    "ar": [
+      {
+        "id": "hhRKyWY_c-I",
+        "title": "Effective Arabic — Greetings in Modern Standard Arabic (3:01)"
+      },
+      {
+        "id": "0ogixbqdIQE",
+        "title": "Effective Arabic — Standard Arabic Conversation Practice (12:36)"
+      },
+      {
+        "id": "tUv2lGE6qj0",
+        "title": "Effective Arabic — Standard Arabic Vocabulary Quiz A2 (8:55)"
+      }
+    ],
+    "bn": [
+      {
+        "id": "aG6KnwkbXJs",
+        "title": "Science Pathshala — জীব-প্রযুক্তি সম্পূর্ণ আলোচনা (Biotechnology), 7:16"
+      }
+    ],
+    "cs": [
+      {
+        "id": "go58LnpIlV0",
+        "title": "NEZkreslená věda — Elektřina"
+      },
+      {
+        "id": "Wg9gbEa28D8",
+        "title": "NEZkreslená věda — AI Umělá inteligence"
+      },
+      {
+        "id": "ALajq5-XUsU",
+        "title": "NEZkreslená věda — Invazní druhy"
+      }
+    ],
+    "es": [
+      {
+        "id": "czCphrEerwg",
+        "title": "Sé Curioso — TED-Ed — ¿Cuáles podrían ser las consecuencias de no dormir? (4:41)"
+      },
+      {
+        "id": "0KxRStoU0AE",
+        "title": "Sé Curioso — TED-Ed — Cómo funciona su sistema digestivo (4:58)"
+      },
+      {
+        "id": "b7AAHNUTK7U",
+        "title": "Sé Curioso — TED-Ed — ¿Qué pasa si no tomamos agua? (4:52)"
+      }
+    ],
+    "fa": [
+      {
+        "id": "ejLwlcV5x6M",
+        "title": "How to Introduce Yourself Easily in Persian — 5 min"
+      },
+      {
+        "id": "CYDdRv15OZo",
+        "title": "What's Your Name in Persian — 9 min"
+      },
+      {
+        "id": "_AYS_5JhFRI",
+        "title": "How are you? in Persian — 6 min"
+      }
+    ],
+    "fil": [
+      {
+        "id": "ow1xsN_Hdh8",
+        "title": "Paano NAGBABANYO ang mga Astronauts — ISS FAQ Part 1"
+      },
+      {
+        "id": "5_55Fpw87MQ",
+        "title": "ISS FAQ Part 2 — Labada, Basura, Internet"
+      },
+      {
+        "id": "4vTUZ4mzFgY",
+        "title": "Pilipina ang Unang Babaeng NASA Mission Operations Manager"
+      }
+    ],
+    "fr": [
+      {
+        "id": "VjfCBUit3D8",
+        "title": "Distanciation sociale chez les animaux — 4:25"
+      },
+      {
+        "id": "d8Gt0XcoPMM",
+        "title": "Les Mayas étaient des ploucs — 5:41"
+      },
+      {
+        "id": "LgIp9-mv5So",
+        "title": "Zeste de science — відео про краплі рідини"
+      }
+    ],
+    "ha": [
+      {
+        "id": "MooUTeK5phw",
+        "title": "Dr. Nafisa Unveiled — Learn Hausa With Me: Greetings & Etiquette — 8:28"
+      },
+      {
+        "id": "GQFsy8_rBR8",
+        "title": "LearnHausaWithXee — Learn 100 Essential Hausa Words for Beginners — 10:23"
+      }
+    ],
+    "he": [
+      {
+        "id": "BnwJNxgvRNA",
+        "title": "Piece of Hebrew — Easy Hebrew video for beginners — 5:54"
+      },
+      {
+        "id": "iCibVi3p-D0",
+        "title": "Piece of Hebrew — Learn Hebrew with this EASY video — 6:05"
+      },
+      {
+        "id": "EJLIIAXCl_Y",
+        "title": "Piece of Hebrew — Advanced Hebrew Conversation With Subtitles — 13:50"
+      }
+    ],
+    "hi": [],
+    "it": [
+      {
+        "id": "-TMHzkcCjSw",
+        "title": "Easy Italian — 10 Minute Conversation in Slow Italian — 10 min"
+      },
+      {
+        "id": "MtJd6i4RM1w",
+        "title": "Easy Italian — 11 Minute Conversation in Slow Italian — 11 min"
+      }
+    ],
+    "ja": [
+      {
+        "id": "GUqFU5u7rLQ",
+        "title": "Japarrot! — Japanese Listening Practice With A Story #1: Family — 6:21"
+      },
+      {
+        "id": "XzsKAs4d45g",
+        "title": "Japarrot! — Japanese Listening Practice With A Story #2: Visit to Japan — 6:04"
+      },
+      {
+        "id": "P_1yJRt6dQ4",
+        "title": "Japarrot! — Japanese Listening Practice With A Story #5: Conveyor Belt Sushi — 6:58"
+      }
+    ],
+    "jv": [
+      {
+        "id": "mOE5FJfS9Mw"
+      }
+    ],
+    "kk": [
+      {
+        "id": "QD_BOkCQT4k",
+        "title": "Kazakh language with Zhannur — Natural Kazakh Conversation — 14:36"
+      },
+      {
+        "id": "g3-feMbnwIE",
+        "title": "Kazakh language with Zhannur — Kazakh Daily Choices: Real Conversation — 11:43"
+      },
+      {
+        "id": "u24SuMikSuw",
+        "title": "Kazakh language with Zhannur — Kazakh Q&A With My Sister — 11:11"
+      }
+    ],
+    "ko": [
+      {
+        "id": "GnwIG51ah7k",
+        "title": "최수수 ChoiSusu — Talking about hobbies — 3:57"
+      },
+      {
+        "id": "As-TwzdO14A",
+        "title": "최수수 ChoiSusu — Cafés in Korea — 13:18"
+      },
+      {
+        "id": "4P_pkkh8ynA",
+        "title": "최수수 ChoiSusu — Making time for hobbies — 6:43"
+      }
+    ],
+    "ku": [
+      {
+        "id": "qCDIKoVSRYY",
+        "title": "Berbang Medya — Pîrê û Rovî"
+      },
+      {
+        "id": "eG4W3Mwz2yg",
+        "title": "judi tv — şengê û pengê"
+      },
+      {
+        "id": "msoQYxzUsoY",
+        "title": "Enstîtuya Kurdî-Stenbol — Hînkirina Xwendinê"
+      }
+    ],
+    "mr": [
+      {
+        "id": "_0GcNb58jHE"
+      }
+    ],
+    "nl": [
+      {
+        "id": "hUmZdgRpXyQ",
+        "title": "Universiteit van Nederland — Waarom ademen veel mensen verkeerd? (7:45)"
+      },
+      {
+        "id": "HcjfNvG7wn8",
+        "title": "Universiteit van Nederland — Slimme computers: kan een robot de emoties in jouw stem herkennen? (14:17)"
+      },
+      {
+        "id": "Sc3Q2siLZN4",
+        "title": "Universiteit van Nederland — Flying-V, interview met Roelof Vos (9:12)"
+      }
+    ],
+    "no": [
+      {
+        "id": "xMlErfGiZGI",
+        "title": "Learn Norwegian Now! (Lær norsk nå) — 8.4 Nordland"
+      },
+      {
+        "id": "zh5KXe0ZYac",
+        "title": "Learn Norwegian Now! (Lær norsk nå) — 8.3 Troms"
+      },
+      {
+        "id": "xKPHFNr2XG8",
+        "title": "Learn Norwegian Now! (Lær norsk nå) — 8.2 Finnmark"
+      }
+    ],
+    "pl": [
+      {
+        "id": "9SK33iwH1K0",
+        "title": "Uczmy Się Polskiego — урок польської мови"
+      },
+      {
+        "id": "mnsfu-JPLhg",
+        "title": "polski.online — курс польської мови"
+      },
+      {
+        "id": "MZH6ibsDM7o",
+        "title": "Easy Polish — вуличні інтерв'ю з поляками"
+      }
+    ],
+    "pnb": [
+      {
+        "id": "B3rU1VXj8jQ"
+      }
+    ],
+    "pt": [
+      {
+        "id": "9wq1JpT7yXg",
+        "title": "Easy Portuguese — розмовна португальська"
+      },
+      {
+        "id": "G8W5Y6vJm2A",
+        "title": "Speaking Brazilian — Brazilian Portuguese"
+      },
+      {
+        "id": "bQ4nK7sL2pE",
+        "title": "Porta dos Fundos — комедійна сценка португальською"
+      }
+    ],
+    "ro": [
+      {
+        "id": "gEPaGOGbDbo",
+        "title": "Istorie - History md — ROMA ANTICĂ – Natura și Populația (13 хв)"
+      },
+      {
+        "id": "BdhvyBKolpU",
+        "title": "Educație Online RO — Structuri sociale în statele lumii antice (14 хв)"
+      }
+    ],
+    "ru": [
+      {
+        "id": "tkzJARellyU",
+        "title": "ПостНаука — Гипотеза Пуанкаре"
+      },
+      {
+        "id": "5PVTrBpG_iw",
+        "title": "Vert Dider — Самое жаркое место на Земле"
+      },
+      {
+        "id": "3IDzOArzWvE",
+        "title": "Vert Dider — Сколько в нас информации?"
+      },
+      {
+        "id": "Lx7PbmYV6HE",
+        "title": "Vert Dider — Что такое точки Лагранжа?"
+      }
+    ],
+    "sv": [
+      {
+        "id": "HqUUVbn4Yro",
+        "title": "Peter SFI — Regler för dubbelkonsonanter (12 хв)"
+      },
+      {
+        "id": "JCOMZihayv0",
+        "title": "Svenska med Kalle — Lyssnarvänligt uttal (4 хв)"
+      }
+    ],
+    "sw": [
+      {
+        "id": "ZvJPjTRfDiE",
+        "title": "Ubongo Kids Kiswahili — Episode 5, Season 3"
+      }
+    ],
+    "te": [
+      {
+        "id": "-wcmpEjBqmU",
+        "title": "Telugu Badi — Brain Stroke Explained (10:36)"
+      },
+      {
+        "id": "jLhvQve1PGQ",
+        "title": "Telugu Badi — What If Gravity Disappeared or Doubled? (11:34)"
+      },
+      {
+        "id": "6KX0b4lXAzQ",
+        "title": "Telugu Badi — Heart on the Right Side? (10:58)"
+      }
+    ],
+    "th": [
+      {
+        "id": "j0oQzBT-yQY",
+        "title": "Point of View — ปีที่หายไป ในประวัติศาสตร์"
+      },
+      {
+        "id": "HJZC6sFYJ9M",
+        "title": "Point of View — สรุปปฏิวัติวิทยาศาสตร์ คลิปเดียวจบ"
+      },
+      {
+        "id": "KlPG9JY8aVY"
+      }
+    ],
+    "tr": [
+      {
+        "id": "HEZy--_Oavo",
+        "title": "Easy Turkish — Super Slow Turkish Conversation (22 хв)"
+      },
+      {
+        "id": "Zswz-0ZZpEs",
+        "title": "Barış Özcan — раніше запропоноване відео, ID потребує перевірки"
+      }
+    ],
+    "vi": [
+      {
+        "id": "tbt6eQVD6nw",
+        "title": "VTV7 — Bài 59: Đọc \"Đi học\""
+      },
+      {
+        "id": "MOxfchkDdXA",
+        "title": "Le Phuong Thao — Speaking Vietnamese in 5 minutes"
+      },
+      {
+        "id": "mk6HhmS3SEg",
+        "title": "VTV7 — ABC Vui từng giờ: Chữ A"
+      }
+    ],
+    "yo": [
+      {
+        "id": "Q-5G-x51zOU"
+      }
+    ],
+    "zh-Hans": [
+      {
+        "id": "rbLlUXT72C4"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "id": "nBE72q5uFfw",
+        "title": "Taiwan Bar — 雨量豐沛的臺灣 為什麼還要蓋海水淡化廠？"
+      },
+      {
+        "id": "5F6KtGQYjjU",
+        "title": "Taiwan Bar — 乾旱來襲也不用限水！？因為水庫串起來了！"
+      },
+      {
+        "id": "7FpxUbJjYAA",
+        "title": "Taiwan Bar — 水庫壽命增加！原因竟然跟極端氣候有關？"
+      }
+    ]
+  }
+}
