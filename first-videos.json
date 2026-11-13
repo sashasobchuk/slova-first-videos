@@ -1,427 +1,541 @@
 {
-  "version": 1,
+  "version": 2,
   "videos": {
     "en": [
       {
         "id": "ibjUpk9Iagk",
-        "title": "TED-Ed — The history of chocolate"
+        "title": "TED-Ed — The history of chocolate - Deanna Pucciarelli (5 хв)"
       },
       {
         "id": "Yocja_N5s1I",
-        "title": "CrashCourse — The Agricultural Revolution"
+        "title": "CrashCourse — The Agricultural Revolution: Crash Course World History #1 (11 хв)"
       },
       {
         "id": "lXfEK8G8CUI",
-        "title": "Kurzgesagt — How The Immune System ACTUALLY Works"
+        "title": "Kurzgesagt – In a Nutshell — How The Immune System ACTUALLY Works – IMMUNE (11 хв)"
+      },
+      {
+        "id": "wv01kkwGzb8",
+        "title": "BBC World Service — How to get your best night’s sleep - What in the World podcast, BBC Wo (13 хв)"
       }
     ],
     "de": [
       {
-        "id": "Lg5P2w_Ro1c",
-        "title": "Deutsche Welle — Nicos Weg (A2)"
+        "id": "5eeoua_pQG4",
+        "title": "WELT Nachrichtensender — UKRAINE-KRIEG: „Auf gar keinen Fall“ Marc Henrichmann (CDU) lehnt (9 хв)"
       },
       {
-        "id": "gz9JbZcfnrk",
-        "title": "lingoni GERMAN — 15 German Words for Beginners"
+        "id": "LcZ4yMtezSY",
+        "title": "WELT Nachrichtensender — KINDEREHEN IN DEUTSCHLAND: \"Behörden lassen Akten liegen bis Kind (5 хв)"
+      },
+      {
+        "id": "apqMJP3QSjQ",
+        "title": "WELT Nachrichtensender — DEUTSCHLAND: „Geschmackloser Tiefpunkt!“ Beatrice Achterberg zerl (5 хв)"
       }
     ],
     "uk": [
       {
         "id": "uT7VWw7FBlw",
-        "title": "Цікава наука — Чому вагітним необхідна фолієва кислота (3:57)"
+        "title": "Цікава наука — Чому вагітним необхідна фолієва кислота [Nucleus Medical Media] (4 хв)"
       },
       {
         "id": "H0G72QaIByc",
-        "title": "Цікава наука — Як ми дізналися будову молекули води (4:10)"
+        "title": "Цікава наука — Як ми дізналися будову молекули води [MinuteEarth] (4 хв)"
       },
       {
         "id": "Jhs2RMj5H-Y",
-        "title": "Цікава наука — Чому погоду важко передбачати (3:49)"
+        "title": "Цікава наука — Чому погоду важко передбачати [MinuteEarth] (4 хв)"
+      },
+      {
+        "id": "8D0lBFlQJCI",
+        "title": "24 Канал — ⚡ЕКСТРЕНА звістка від Зеленського щодо ЗАКІНЧЕННЯ ВІЙНИ! ЦЕ СТАЛОСЬ: Україна от (15 хв)"
       }
     ],
     "am": [
       {
-        "id": "qDitP-UoBKg",
-        "title": "Saquama — What is physics? (5:47)"
+        "id": "UpmhEtoMTrM",
+        "title": "ዓለም ዛሬ / The World Today Amharic — ዓለም ዛሬ — የሰሜን ኢትዮጵያ ጦርነት መመለስ፣ የሰብአዊ ሁኔታዎች እና ዓለም አቀፍ ዜ (3 хв)"
       },
       {
-        "id": "5W8LR02wi2E",
-        "title": "Saquama — Introduction to Motion (5:48)"
+        "id": "BoFD8E_4pNo",
+        "title": "ዓለም ዛሬ / The World Today Amharic — ዓለም ዛሬ — በኢትዮጵያ እና ቀጣናው ያሉ ወቅታዊ የፖለቲካ እና ኢኮኖሚ ዜናዎች (3 хв)"
       },
       {
-        "id": "gz9kXwlJC-U",
-        "title": "Saquama — Introduction to Force (5:48)"
+        "id": "fJWk7aIiP30",
+        "title": "ዓለም ዛሬ / The World Today Amharic — ዓለም ዛሬ — የዓለም ዜናዎች, የኢትዮጵያ ሁኔታዎች እና የቱሪዝም ዕድገት (3 хв)"
       }
     ],
     "ar": [
       {
-        "id": "hhRKyWY_c-I",
-        "title": "Effective Arabic — Greetings in Modern Standard Arabic (3:01)"
+        "id": "BIjWf1anHIU",
+        "title": "Learn Arabic with Khasu — Easy Arabic Podcast: Episode 1. Listening (20 хв)"
       },
       {
-        "id": "0ogixbqdIQE",
-        "title": "Effective Arabic — Standard Arabic Conversation Practice (12:36)"
+        "id": "Z5t0cu5nOlk",
+        "title": "Arabic Speaking Practice — Learn Arabic Podcast | Morning Routine in Simple Arabic (A1-A2) (13 хв)"
       },
       {
-        "id": "tUv2lGE6qj0",
-        "title": "Effective Arabic — Standard Arabic Vocabulary Quiz A2 (8:55)"
+        "id": "hZw_e2hPyJw",
+        "title": "أتقن العربية — تعليم العربية للناطقين بغيرها (13 хв)"
       }
     ],
     "bn": [
       {
         "id": "aG6KnwkbXJs",
-        "title": "Science Pathshala — জীব-প্রযুক্তি সম্পূর্ণ আলোচনা (Biotechnology), 7:16"
+        "title": "Science Pathshala ( বিজ্ঞান পাঠশালা) — জীব-প্রযুক্তি সম্পূর্ণ আলোচনা | SSC বিজ্ঞান অধ্যায় (7 хв)"
+      },
+      {
+        "id": "OjQk2rn3-u0",
+        "title": "Jamuna TV — যমুনা নিউজ | Latest News Headlines and Bulletin | Jamuna News | 4 PM | 14 June (23 хв)"
+      },
+      {
+        "id": "WTnXyB_PvFA",
+        "title": "ATN Bangla News — এটিএন বাংলার সকাল ৭ টার সংবাদ । ০২.১০.২০২৬ | Today News | Ajker News | B (21 хв)"
+      },
+      {
+        "id": "B3_4tDTgKNM",
+        "title": "Recent tv — সারাদিনের আন্তর্জাতিক সংবাদ ১৭ অক্টোবর, ২৬। ইসরাঈল ইরান সংঘাত, antorjatik khob (12 хв)"
       }
     ],
     "cs": [
       {
         "id": "go58LnpIlV0",
-        "title": "NEZkreslená věda — Elektřina"
+        "title": "Otevřená věda — ELEKTŘINA 💡⚡🔌 – NEZkreslená věda X (8 хв)"
       },
       {
         "id": "Wg9gbEa28D8",
-        "title": "NEZkreslená věda — AI Umělá inteligence"
+        "title": "Otevřená věda — AI UMĚLÁ INTELIGENCE 🤖 – NEZkreslená věda X (8 хв)"
       },
       {
         "id": "ALajq5-XUsU",
-        "title": "NEZkreslená věda — Invazní druhy"
+        "title": "Otevřená věda — INVAZNÍ DRUHY 🌱🐍🦝🐭 – NEZkreslená věda X (8 хв)"
+      },
+      {
+        "id": "1wnsAYt74Ik",
+        "title": "Czech Step by Step — Krátké české zprávy: Exploze v chemické továrně, Změna času (2 хв)"
       }
     ],
     "es": [
       {
         "id": "czCphrEerwg",
-        "title": "Sé Curioso — TED-Ed — ¿Cuáles podrían ser las consecuencias de no dormir? (4:41)"
+        "title": "Sé Curioso — TED-Ed — ¿Cuáles podrían ser las consecuencias de no dormir? - Claudia Aguirr (5 хв)"
       },
       {
         "id": "0KxRStoU0AE",
-        "title": "Sé Curioso — TED-Ed — Cómo funciona su sistema digestivo (4:58)"
+        "title": "Sé Curioso — TED-Ed — Cómo funciona su sistema digestivo - Emma Bryce (5 хв)"
       },
       {
         "id": "b7AAHNUTK7U",
-        "title": "Sé Curioso — TED-Ed — ¿Qué pasa si no tomamos agua? (4:52)"
+        "title": "Sé Curioso — TED-Ed — ¿Qué pasa si no tomamos agua? - Mia Nacamulli (5 хв)"
+      },
+      {
+        "id": "j16ILdcScTU",
+        "title": "María Español — ¿Qué está pasando en España? 🇪🇸 (Entiende las noticias en Español Avanza (21 хв)"
       }
     ],
     "fa": [
       {
         "id": "ejLwlcV5x6M",
-        "title": "How to Introduce Yourself Easily in Persian — 5 min"
+        "title": "Persian With Sohi — How to Introduce Yourself Easily in Persian | Comprehensible Input for (5 хв)"
       },
       {
         "id": "CYDdRv15OZo",
-        "title": "What's Your Name in Persian — 9 min"
+        "title": "Persian With Sohi — What's Your Name in Persian | Persian Comprehensible Input for Absolut (9 хв)"
       },
       {
         "id": "_AYS_5JhFRI",
-        "title": "How are you? in Persian — 6 min"
+        "title": "Persian With Sohi — How are you? in Persian | Persian Comprehensible Input for Absolute Be (6 хв)"
+      },
+      {
+        "id": "57lENik7wAs",
+        "title": "تهران حواشی — حمله و فحاشی شدید کوروش وانتونز به پاشا مجلسی و بهراد🥵افشاگری سنگین از پاشا (13 хв)"
       }
     ],
     "fil": [
       {
         "id": "ow1xsN_Hdh8",
-        "title": "Paano NAGBABANYO ang mga Astronauts — ISS FAQ Part 1"
+        "title": "Madam Info — Paano NAGBABANYO ang mga Astronauts atbp Tanong | ISS FAQ Part 1 (19 хв)"
       },
       {
         "id": "5_55Fpw87MQ",
-        "title": "ISS FAQ Part 2 — Labada, Basura, Internet"
+        "title": "Madam Info — Paano na ang Labada, Basura at Internet sa International Space Station (13 хв)"
       },
       {
         "id": "4vTUZ4mzFgY",
-        "title": "Pilipina ang Unang Babaeng NASA Mission Operations Manager"
+        "title": "Madam Info — Pilipina ang Unang Babaeng NASA Mission Operations Manager (12 хв)"
+      },
+      {
+        "id": "vZmtovt6ZRc",
+        "title": "GMA News — Ano ang epekto ng microplastics sa kalusugan? | Need to Know (9 хв)"
       }
     ],
     "fr": [
       {
         "id": "VjfCBUit3D8",
-        "title": "Distanciation sociale chez les animaux — 4:25"
+        "title": "Zeste de science, les séries originales du CNRS — Distanciation sociale chez les animaux | (4 хв)"
       },
       {
         "id": "d8Gt0XcoPMM",
-        "title": "Les Mayas étaient des ploucs — 5:41"
+        "title": "Zeste de science, les séries originales du CNRS — Les Mayas étaient des ploucs - Feat. PAS (6 хв)"
       },
       {
         "id": "LgIp9-mv5So",
-        "title": "Zeste de science — відео про краплі рідини"
+        "title": "Zeste de science, les séries originales du CNRS — Un peu de physique dès le petit déjeuner (6 хв)"
+      },
+      {
+        "id": "c4vjPOHvYVI",
+        "title": "Learn French with Elisabeth - HelloFrench — Riots at French High Schools - Learn French wi (21 хв)"
       }
     ],
     "ha": [
       {
-        "id": "MooUTeK5phw",
-        "title": "Dr. Nafisa Unveiled — Learn Hausa With Me: Greetings & Etiquette — 8:28"
+        "id": "EJKYqThEu4A",
+        "title": "HausaFilmsTV — Kanun Labaran BBC - DW - RFI - CRI Hausa na 2026-05-14 (HausaRadio.net News (13 хв)"
       },
       {
-        "id": "GQFsy8_rBR8",
-        "title": "LearnHausaWithXee — Learn 100 Essential Hausa Words for Beginners — 10:23"
+        "id": "0OBq6XDWVCY",
+        "title": "HausaFilmsTV — Kanun Labaran BBC - DW - RFI - CRI Hausa na 2026-05-26 (HausaRadio.net News (15 хв)"
+      },
+      {
+        "id": "24ncL9cHZLo",
+        "title": "HausaFilmsTV — Kanun Labaran BBC - DW - RFI Hausa na 2026-05-07 (HausaRadio.net News Headl (11 хв)"
       }
     ],
     "he": [
       {
-        "id": "BnwJNxgvRNA",
-        "title": "Piece of Hebrew — Easy Hebrew video for beginners — 5:54"
-      },
-      {
         "id": "iCibVi3p-D0",
-        "title": "Piece of Hebrew — Learn Hebrew with this EASY video — 6:05"
+        "title": "Piece of Hebrew — Learn HEBREW with this EASY video (6 хв)"
       },
       {
         "id": "EJLIIAXCl_Y",
-        "title": "Piece of Hebrew — Advanced Hebrew Conversation With Subtitles — 13:50"
+        "title": "Piece of Hebrew — Advanced HEBREW Conversation With Subtitles // Learn Hebrew vocabulary a (14 хв)"
+      },
+      {
+        "id": "nShemP5Udag",
+        "title": "SimplyTalk Hebrew — Ep. 1 - Learn Hebrew with Optimistic News 🎉✨ | חדשות טובות בעברית קלה (15 хв)"
       }
     ],
-    "hi": [],
     "it": [
       {
         "id": "-TMHzkcCjSw",
-        "title": "Easy Italian — 10 Minute Conversation in Slow Italian — 10 min"
+        "title": "Easy Italian — 10 Minute Conversation in Slow Italian | Super Easy Italian 52 (10 хв)"
       },
       {
         "id": "MtJd6i4RM1w",
-        "title": "Easy Italian — 11 Minute Conversation in Slow Italian — 11 min"
+        "title": "Easy Italian — 11 Minute Conversation in Slow Italian | Super Easy Italian 44 (11 хв)"
+      },
+      {
+        "id": "RC11uSuGV7o",
+        "title": "My Italian Circle — Notizie in italiano - Read the News in Italian with Me | Learn Italian (9 хв)"
+      },
+      {
+        "id": "KVoDUy3o1LA",
+        "title": "Impara l’italiano con Vaporetto Italiano — Novità da Pompei! (Leggiamo insieme - Livello C (23 хв)"
       }
     ],
     "ja": [
       {
-        "id": "GUqFU5u7rLQ",
-        "title": "Japarrot! — Japanese Listening Practice With A Story #1: Family — 6:21"
+        "id": "IxcAKhB3_HI",
+        "title": "Enjoy Japanese — ニュースから学ぶ！＃２ Learn from Japanese news! （日本語字幕付き） (18 хв)"
       },
       {
-        "id": "XzsKAs4d45g",
-        "title": "Japarrot! — Japanese Listening Practice With A Story #2: Visit to Japan — 6:04"
+        "id": "pwIkbV1wAv8",
+        "title": "mamechan — NHK やさしいことばニュース ”えと”の交代についてのニュース (10 хв)"
       },
       {
-        "id": "P_1yJRt6dQ4",
-        "title": "Japarrot! — Japanese Listening Practice With A Story #5: Conveyor Belt Sushi — 6:58"
+        "id": "iWg70cSpX9I",
+        "title": "阿部先生の日本語教室 — やさしい日本語ニュースわん 9/6 「分身ロボットで接客、生きる希望に」「政府、客に渡す12の品物にプラスチックを使わないで」「新しい1万円のお札 工場で (12 хв)"
       }
     ],
     "jv": [
       {
-        "id": "mOE5FJfS9Mw"
+        "id": "mOE5FJfS9Mw",
+        "title": "CARIYOS BASA JAWI — BANDHO BALUNG KEBO || Cariyos Basa Jawi #alaminglelembut (21 хв)"
       }
     ],
     "kk": [
       {
-        "id": "QD_BOkCQT4k",
-        "title": "Kazakh language with Zhannur — Natural Kazakh Conversation — 14:36"
+        "id": "PfS9WcsZmvQ",
+        "title": "Аида Қыдырбай — Мәскеуге жаңа сарбаздар келді — Ресей мен КХДР байланысы тереңдей түсті (14 хв)"
       },
       {
-        "id": "g3-feMbnwIE",
-        "title": "Kazakh language with Zhannur — Kazakh Daily Choices: Real Conversation — 11:43"
-      },
-      {
-        "id": "u24SuMikSuw",
-        "title": "Kazakh language with Zhannur — Kazakh Q&A With My Sister — 11:11"
+        "id": "6Gvo0j6LomA",
+        "title": "Аида Қыдырбай — Ресейге үлкен шабуылдан кейін келіссөз басталды! Украина соғысы & Иран да  (10 хв)"
       }
     ],
     "ko": [
       {
-        "id": "GnwIG51ah7k",
-        "title": "최수수 ChoiSusu — Talking about hobbies — 3:57"
-      },
-      {
         "id": "As-TwzdO14A",
-        "title": "최수수 ChoiSusu — Cafés in Korea — 13:18"
+        "title": "최수수 ChoiSusu — SUB) Korean Podcast for Beginners 27 : 한국의 카페 Cafes in Korea (13 хв)"
       },
       {
         "id": "4P_pkkh8ynA",
-        "title": "최수수 ChoiSusu — Making time for hobbies — 6:43"
+        "title": "최수수 ChoiSusu — SUB/PDF) Korean Podcast for Intermediate 01 : 취미 생활 (7 хв)"
+      },
+      {
+        "id": "JAOTNrRS7Dw",
+        "title": "MBCNEWS — 민주 \"청력테스트도 부족해 자막조작 억지\"‥박진 해임건의안 통과되나 (2022.09.28/뉴스데스크/MBC) (2 хв)"
       }
     ],
     "ku": [
       {
-        "id": "qCDIKoVSRYY",
-        "title": "Berbang Medya — Pîrê û Rovî"
-      },
-      {
         "id": "eG4W3Mwz2yg",
-        "title": "judi tv — şengê û pengê"
+        "title": "judi tv — şengê û pengê - شەنگێ و پەنگێ (7 хв)"
       },
       {
-        "id": "msoQYxzUsoY",
-        "title": "Enstîtuya Kurdî-Stenbol — Hînkirina Xwendinê"
+        "id": "vNMzH3jpNog",
+        "title": "VOA Kurdi — Hevpeyvîn ligel Kamran Raman (22 хв)"
+      },
+      {
+        "id": "8qsa2whwKks",
+        "title": "VOA Kurdi — HEVPEYVÎN DIGEL ÎLHAM EHMED, SEROKA MECLISA SÛRÎYA DEMOKRATÎK (6 хв)"
       }
     ],
     "mr": [
       {
-        "id": "_0GcNb58jHE"
+        "id": "_0GcNb58jHE",
+        "title": "MadhurasRecipe Marathi — रव्याचे उकडीचे मोदक | गुलकंदाच्या सारणाचे २४ तास मऊ राहणारे मोदक  (10 хв)"
+      },
+      {
+        "id": "xChS3cDkx70",
+        "title": "Pudhari News — Pudhari News |सायंकाळी ६ च्या महत्त्वाच्या हेडलाईन्स #headlines (3 хв)"
+      },
+      {
+        "id": "zenAbZoGTU8",
+        "title": "Sarkarnama — Mumbai Saif Ali Khan Attacked : सैफ प्रकरणाचा Bishnoi Gangशी संबंध ? (2 хв)"
       }
     ],
     "nl": [
       {
         "id": "hUmZdgRpXyQ",
-        "title": "Universiteit van Nederland — Waarom ademen veel mensen verkeerd? (7:45)"
+        "title": "Universiteit van Nederland — Waarom ademen veel mensen verkeerd? (En hoe kan het beter?) (8 хв)"
       },
       {
         "id": "HcjfNvG7wn8",
-        "title": "Universiteit van Nederland — Slimme computers: kan een robot de emoties in jouw stem herkennen? (14:17)"
+        "title": "Universiteit van Nederland — SLIMME COMPUTERS: Kan een robot de emoties in jouw stem herke (14 хв)"
       },
       {
         "id": "Sc3Q2siLZN4",
-        "title": "Universiteit van Nederland — Flying-V, interview met Roelof Vos (9:12)"
+        "title": "Universiteit van Nederland — Zo vliegen we in de toekomst (9 хв)"
       }
     ],
     "no": [
       {
         "id": "xMlErfGiZGI",
-        "title": "Learn Norwegian Now! (Lær norsk nå) — 8.4 Nordland"
+        "title": "Learn Norwegian Now! — The Regions of Norway: Nordland | Norwegian Listening Practice (4 хв)"
       },
       {
         "id": "zh5KXe0ZYac",
-        "title": "Learn Norwegian Now! (Lær norsk nå) — 8.3 Troms"
+        "title": "Learn Norwegian Now! — The Regions of Norway: Troms | Norwegian Listening Practice (4 хв)"
       },
       {
         "id": "xKPHFNr2XG8",
-        "title": "Learn Norwegian Now! (Lær norsk nå) — 8.2 Finnmark"
+        "title": "Learn Norwegian Now! — The Regions of Norway: Finnmark | Norwegian Listening Practice (4 хв)"
+      },
+      {
+        "id": "mNVAU5ly1C0",
+        "title": "NRK Nyheter — Dagsrevyen 21, 21.11.2021 (9 хв)"
       }
     ],
     "pl": [
       {
-        "id": "9SK33iwH1K0",
-        "title": "Uczmy Się Polskiego — урок польської мови"
-      },
-      {
-        "id": "mnsfu-JPLhg",
-        "title": "polski.online — курс польської мови"
-      },
-      {
         "id": "MZH6ibsDM7o",
-        "title": "Easy Polish — вуличні інтерв'ю з поляками"
+        "title": "Easy Languages — What are you doing today? | Easy Polish 4 (4 хв)"
+      },
+      {
+        "id": "LgndsmMgK-4",
+        "title": "Po polsku codziennie — Pozytywnie wiadomości po polsku - 11 maja 2022 roku (12 хв)"
+      },
+      {
+        "id": "_2WgKF6jmko",
+        "title": "euronews po polsku — Macron u Trumpa. Rozmowa o ropie, Ukrainie i deeskalacji (2 хв)"
       }
     ],
     "pnb": [
       {
-        "id": "B3rU1VXj8jQ"
+        "id": "B3rU1VXj8jQ",
+        "title": "V9 Punjabi — ਕੈਨੇਡਾ ਦੇ ਪਿੰਡਾਂ ‘ਚ ਮਿਲੇਗੀ ਸੌਖੀ PR, Canada Punjabi News (17 хв)"
+      },
+      {
+        "id": "vxMes2SmyY8",
+        "title": "CK Time TV North America — ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News (25 хв)"
+      },
+      {
+        "id": "2wm0hdocXy4",
+        "title": "CK Time TV North America — ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News (17 хв)"
       }
     ],
     "pt": [
       {
-        "id": "9wq1JpT7yXg",
-        "title": "Easy Portuguese — розмовна португальська"
-      },
-      {
-        "id": "G8W5Y6vJm2A",
-        "title": "Speaking Brazilian — Brazilian Portuguese"
-      },
-      {
-        "id": "bQ4nK7sL2pE",
-        "title": "Porta dos Fundos — комедійна сценка португальською"
+        "id": "azXwoVpwL20",
+        "title": "Português Pra Fora | Podcast — Você é Capaz de Entender essa Conversa? Bate-Papo entre Nat (13 хв)"
       }
     ],
     "ro": [
       {
         "id": "gEPaGOGbDbo",
-        "title": "Istorie - History md — ROMA ANTICĂ – Natura și Populația (13 хв)"
+        "title": "Istorie - History md — ROMA ANTICĂ – Natura și Populația. Legenda întemeierii Romei (13 хв)"
       },
       {
         "id": "BdhvyBKolpU",
-        "title": "Educație Online RO — Structuri sociale în statele lumii antice (14 хв)"
+        "title": "Educație Online RO — Istoria, clasa a X-a, Structuri sociale în statele lumii antice. Orga (14 хв)"
+      },
+      {
+        "id": "4f2Kr62J5cU",
+        "title": "LaEi Știri — Avioane NATO ridicate după pierderea contactului cu România (2 хв)"
+      },
+      {
+        "id": "Rz5KACFzm-M",
+        "title": "LaEi Știri — Marea Neagră: de la mine marine la infrastructură (2 хв)"
       }
     ],
     "ru": [
       {
         "id": "tkzJARellyU",
-        "title": "ПостНаука — Гипотеза Пуанкаре"
+        "title": "ПостНаука — Гипотеза Пуанкаре — Алексей Савватеев на ПостНауке (13 хв)"
       },
       {
         "id": "5PVTrBpG_iw",
-        "title": "Vert Dider — Самое жаркое место на Земле"
+        "title": "Минутка физики и Минутка Земли — Самое жаркое место на Земле [Минутка Земли] (2 хв)"
       },
       {
         "id": "3IDzOArzWvE",
-        "title": "Vert Dider — Сколько в нас информации?"
+        "title": "Vert Dider — Сколько в нас информации? [Veritasium] (5 хв)"
       },
       {
         "id": "Lx7PbmYV6HE",
-        "title": "Vert Dider — Что такое точки Лагранжа?"
+        "title": "Vert Dider — Что такое точки Лагранжа? [Fraser Cain] (6 хв)"
       }
     ],
     "sv": [
       {
         "id": "HqUUVbn4Yro",
-        "title": "Peter SFI — Regler för dubbelkonsonanter (12 хв)"
+        "title": "Peter SFI — Regler för dubbelkonsonanter (kall, platt, kyss) SFI (12 хв)"
       },
       {
         "id": "JCOMZihayv0",
-        "title": "Svenska med Kalle — Lyssnarvänligt uttal (4 хв)"
+        "title": "Svenska med Kalle — Svenska språket - Tankar och tips 14 -Lyssnarvänligt uttal (4 хв)"
+      },
+      {
+        "id": "dMlstpQ_ik4",
+        "title": "SVT Humor — Hemmasittare – Svenska nyheter (S17EP11) (11 хв)"
+      },
+      {
+        "id": "o_o8UBRpbcQ",
+        "title": "SVT Humor — Hotet från USA – Svenska nyheter (S17EP1) (15 хв)"
       }
     ],
     "sw": [
       {
-        "id": "ZvJPjTRfDiE",
-        "title": "Ubongo Kids Kiswahili — Episode 5, Season 3"
+        "id": "ake-F2PXCtw",
+        "title": "DW Kiswahili — DW Kiswahili Habari za Ulimwengu | Aprili 25, 2024 | Jioni | Swahili Habari (6 хв)"
+      },
+      {
+        "id": "Khv-tbPFu9A",
+        "title": "DW Kiswahili — DW Kiswahili Habari za Ulimwengu | Aprili 25, 2024 | asubuhi | Swahili Haba (8 хв)"
+      },
+      {
+        "id": "HJ7EKuLwRhQ",
+        "title": "DW Kiswahili — DW Kiswahili Habari za Ulimwengu | Aprili 03, 2024 | Jioni | Swahili Habari (6 хв)"
       }
     ],
     "te": [
       {
         "id": "-wcmpEjBqmU",
-        "title": "Telugu Badi — Brain Stroke Explained (10:36)"
+        "title": "Telugu badi (తెలుగుబడి) — Brain Stroke Explained | What Happens During A Brain Stroke? | C (11 хв)"
       },
       {
         "id": "jLhvQve1PGQ",
-        "title": "Telugu Badi — What If Gravity Disappeared or Doubled? (11:34)"
+        "title": "Telugu badi (తెలుగుబడి) — What If Gravity Disappeared or Doubled? Zero Gravity vs Double G (12 хв)"
       },
       {
         "id": "6KX0b4lXAzQ",
-        "title": "Telugu Badi — Heart on the Right Side? (10:58)"
+        "title": "Telugu badi (తెలుగుబడి) — Heart on the Right Side? Top Interesting Facts in Telugu Badi (11 хв)"
+      },
+      {
+        "id": "Cwp9xBAtSXg",
+        "title": "E6TV — బెంగళూరులో షాకింగ్ క్యాబ్ రైడ్ డ్రైవర్ సీట్లో టీమ్ లీడ్ |Workplace Culture Discussi (2 хв)"
       }
     ],
     "th": [
       {
         "id": "j0oQzBT-yQY",
-        "title": "Point of View — ปีที่หายไป ในประวัติศาสตร์"
+        "title": "Point of View — ปีที่หายไป ในประวัติศาสตร์ | Point of View (22 хв)"
       },
       {
         "id": "HJZC6sFYJ9M",
-        "title": "Point of View — สรุปปฏิวัติวิทยาศาสตร์ คลิปเดียวจบ"
+        "title": "Point of View — สรุปปฏิวัติวิทยาศาสตร์ คลิปเดียวจบ | Point of View (22 хв)"
       },
       {
-        "id": "KlPG9JY8aVY"
+        "id": "KlPG9JY8aVY",
+        "title": "Point of View — สรุปการปกครองไทย #คลิปเดียวจบ | Point of View (22 хв)"
+      },
+      {
+        "id": "v3vLxXVuU88",
+        "title": "Thai PBS — เลือกกินไก่วิถีอินทรีย์ | กินอยู่คือ [CC] (25 хв)"
       }
     ],
     "tr": [
       {
-        "id": "HEZy--_Oavo",
-        "title": "Easy Turkish — Super Slow Turkish Conversation (22 хв)"
+        "id": "m3htIREAny8",
+        "title": "DW Türkçe — Rusya'nın kapı komşusu neden 500 bin asker topluyor? (20 хв)"
       },
       {
-        "id": "Zswz-0ZZpEs",
-        "title": "Barış Özcan — раніше запропоноване відео, ID потребує перевірки"
+        "id": "8SLWzu-9tKM",
+        "title": "GZT — 12 yıldır saklanıyordu: Türkiye’nin gizli bomba üssünde neler üretiliyor? (MSB Ar-Ge (13 хв)"
+      },
+      {
+        "id": "guXSikd76u8",
+        "title": "Türkçe Haber — Yurtdışında yaşayanları Fatih Polat uyarıyor! DİKKATLİ OLUN! Son dakika Tür (21 хв)"
       }
     ],
     "vi": [
       {
-        "id": "tbt6eQVD6nw",
-        "title": "VTV7 — Bài 59: Đọc \"Đi học\""
+        "id": "q2jHZHcLC50",
+        "title": "Vatican News - Tiếng Việt — Cập nhật tình trạng sức khỏe của ĐTC Lêo XIV sau phẫu thuật (1 (2 хв)"
       },
       {
-        "id": "MOxfchkDdXA",
-        "title": "Le Phuong Thao — Speaking Vietnamese in 5 minutes"
-      },
-      {
-        "id": "mk6HhmS3SEg",
-        "title": "VTV7 — ABC Vui từng giờ: Chữ A"
+        "id": "pTXYoitoxe4",
+        "title": "Hải Quân VN — Chỉ Huy Gốc Việt Xóa Sổ Tử Địa Iraq - Cậu Bé Tàu Sân Bay Hóa Tư Lệnh (15 хв)"
       }
     ],
-    "yo": [
-      {
-        "id": "Q-5G-x51zOU"
-      }
-    ],
+    "yo": [],
     "zh-Hans": [
       {
-        "id": "rbLlUXT72C4"
+        "id": "jY694ii7Iv0",
+        "title": "SyS Mandarin — Learn Chinese Through News | 新闻联播｜HSK 3-4 | 秋色 (11 хв)"
+      },
+      {
+        "id": "wZDej3Logc4",
+        "title": "Chinese Daily Podcast — HSK 3 - 4| 慢慢吃，对身体好！Why You Should Eat Slowly – Daily Chinese Podc (14 хв)"
       }
     ],
     "zh-Hant": [
       {
-        "id": "nBE72q5uFfw",
-        "title": "Taiwan Bar — 雨量豐沛的臺灣 為什麼還要蓋海水淡化廠？"
+        "id": "nsQYJipoji8",
+        "title": "TVBS NEWS — 【全程CC字幕】薔蜜颱風今早生成!最新路徑曝 這天離台灣最近｜TVBS新聞 @TVBSNEWS01 (10 хв)"
       },
       {
-        "id": "5F6KtGQYjjU",
-        "title": "Taiwan Bar — 乾旱來襲也不用限水！？因為水庫串起來了！"
+        "id": "-TQiVAQoizE",
+        "title": "TVBS NEWS — 【CC字幕】「薔蜜」今明恐轉中颱！這天最接近台灣 外圍環流挾雨彈炸兩區 週五起低壓帶壓境全台變天｜TVBS新聞 @TVBSNEWS01 (11 хв)"
       },
       {
-        "id": "7FpxUbJjYAA",
-        "title": "Taiwan Bar — 水庫壽命增加！原因竟然跟極端氣候有關？"
+        "id": "zhQuFBX4OBI",
+        "title": "TVBS新聞網 — 【CC字幕】美防長演說「台灣被消失」? 傳川普暫緩4億軍援! 顧立雄拋2戰略反擊:2030國防預算達2.5%｜TVBS新聞網 @tvbsnews24live (9 хв)"
+      }
+    ],
+    "hi": [
+      {
+        "id": "foIiWh1t5ZI",
+        "title": "DW हिन्दी — ओलंपिक में विरोध के बाद नई शुरुआत करती मनीजा [Manizha Talash: From Olympic Pro (2 хв)"
+      },
+      {
+        "id": "25Gx1BxL9OM",
+        "title": "News18 India — Desh Ki Pathshala : वो ‘ज़हर’ जो घर-घर पहुंचा...कैंसर, हार्टअटैक..और क्या-क (12 хв)"
+      },
+      {
+        "id": "Qdg9X6gx1g4",
+        "title": "News18 India — Aar Paar With Amish Devgan:\"संजय राउत के मुंह पर ताला...\" | Uddhav Thackera (9 хв)"
       }
     ]
   }
